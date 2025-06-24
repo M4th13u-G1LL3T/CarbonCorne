@@ -51,7 +51,7 @@
 
             bindings = <
 &kp TAB    &kp F1  &kp F2      &kp F3          &kp F4      &kp F5       &kp F6   &kp F7          &kp F8          &kp F9           &kp F10  &kp BSPC
-&kp LCTRL  &none   &bt BT_PRV  &bt BT_CLR      &bt BT_NXT  &kp F11      &kp F12  &none           &kp UP_ARROW    &none            &none    &none
+&kp LCTRL  &none   &bt BT_PRV  &bt BT_CLR      &bt BT_NXT  &kp F11      &kp F12  &none           &kp UP_ARROW    &none            &none    &studio_unlock
 &kp LSHFT  &none   &none       &bt BT_CLR_ALL  &none       &none        &none    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &none    &bootloader
                                &kp LGUI        &trans      &kp SPACE    &kp RET  &trans          &kp RALT
             >;
